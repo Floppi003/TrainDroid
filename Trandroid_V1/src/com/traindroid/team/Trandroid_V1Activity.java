@@ -10,6 +10,7 @@ public class Trandroid_V1Activity extends Activity {
         super.onCreate(savedInstanceState);
         
         // Flo, Dani
+        // gehts? : von Dani
         setContentView(R.layout.main);
     }
 }
