@@ -9,6 +9,7 @@ public class Trandroid_V1Activity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         
+        // Flo
         setContentView(R.layout.main);
     }
 }
