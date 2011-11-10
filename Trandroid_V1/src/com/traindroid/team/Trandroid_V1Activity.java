@@ -11,6 +11,7 @@ public class Trandroid_V1Activity extends Activity {
         
         // Flo, Dani
         // gehts? : von Dani
+        // commit von dani
         setContentView(R.layout.main);
     }
 }
